@@ -1,2 +1,2 @@
-# cartpoleopenai
+# Cartpole openai
 Check cartepole equation
